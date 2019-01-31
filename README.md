@@ -40,13 +40,17 @@ $ rails db:seed
 
 $ rails c
 
-$ tp User.all
+$ tp Doctor.all
 
-$ tp Category.all
+$ tp Patient.all
 
-$ tp Article.all
+$ tp Appointement.all
 
-$ tp Like.all
+$ tp City.all
+
+$ tp Specialty.all
+
+$ tp AssocSpeDoc.all
  
 ------
 par Maxime, Marylis, Jonathan
